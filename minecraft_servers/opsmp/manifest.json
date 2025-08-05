@@ -1,0 +1,31 @@
+{
+  "server_name": "opsmp",
+  "nice_name": "OPSMP",
+  "direct_ip": "opsmp.net",
+  "server_wildcards": [
+    "%.opsmp.net",
+    "%.opsmp.de",
+  ],
+  "supported_languages": [
+    "de"
+  ],
+  "social": {
+    "web": "https://www.opsmp.net",
+    "web_shop": "https://shop.opsmp.net/labymod",
+    "discord": "https://opsmp.link/discord"
+  },
+  "discord": {
+    "server_id": 1395150154117546074
+  },
+  "brand": {
+    "primary": "#c40cb8",
+    "background": "#800077",
+    "text": "#ffffff"
+  },
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "country_code": "DE"
+  },
+  "yt_trailer": "XJBLyooWBus"
+}
